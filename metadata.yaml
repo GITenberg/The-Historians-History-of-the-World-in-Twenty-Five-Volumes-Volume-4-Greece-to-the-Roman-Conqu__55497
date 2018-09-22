@@ -1,0 +1,27 @@
+_repo: The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-4-Greece-to-the-Roman-Conqu__55497
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Williams, Henry Smith
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '698'
+    url: http://www.gutenberg.org/2009/agents/698
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
+description: ''
+gutenberg_issued: '2017-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+- GITenberg
+title: 'The Historians'' History of the World in Twenty-Five Volumes, Volume 4
+
+  Greece to the Roman Conquest'
+url: http://www.gutenberg.org/ebooks/55497
