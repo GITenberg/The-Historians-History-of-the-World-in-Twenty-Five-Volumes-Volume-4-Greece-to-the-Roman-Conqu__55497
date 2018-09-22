@@ -1,5 +1,8 @@
 _repo: The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-4-Greece-to-the-Roman-Conqu__55497
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55497-h/images/cover.jpg
 creator:
   editor:
     agent_name: Williams, Henry Smith
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/698
     wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55497#The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-4-Greece-to-the-Roman-Conqu_
 gutenberg_issued: '2017-09-06'
 gutenberg_type: Text
 identifiers:
